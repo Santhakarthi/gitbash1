@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-28T10:22:01 GMT-07:00" name="Default suite" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="224">
+    <groups>
+    </groups>
+    <test started-at="2023-09-28T10:22:01 GMT-07:00" name="Default test" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="224">
+      <class name="com.hms.testng.TestScripts">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBS" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBT()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBT" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBT -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBC" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBC1()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBC1" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC1 -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBM" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method is-config="true" signature="configBM1()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBM1" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM1 -->
+        <test-method is-config="true" signature="configBM2()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBM2" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM2 -->
+        <test-method is-config="true" signature="configBM3()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBM3" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM3 -->
+        <test-method is-config="true" signature="configBM4()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBM4" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM4 -->
+        <test-method is-config="true" signature="configBM5()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBM5" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM5 -->
+        <test-method signature="configTest1()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configTest1" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configTest1 -->
+        <test-method is-config="true" signature="configAm()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configAm" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method is-config="true" signature="configAm1()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configAm1" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm1 -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBM" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method is-config="true" signature="configBM1()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBM1" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM1 -->
+        <test-method is-config="true" signature="configBM2()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBM2" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM2 -->
+        <test-method is-config="true" signature="configBM3()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBM3" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM3 -->
+        <test-method is-config="true" signature="configBM4()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBM4" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM4 -->
+        <test-method is-config="true" signature="configBM5()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configBM5" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM5 -->
+        <test-method signature="configTest2()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configTest2" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configTest2 -->
+        <test-method is-config="true" signature="configAm()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configAm" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method is-config="true" signature="configAm1()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configAm1" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm1 -->
+        <test-method is-config="true" signature="configAT()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:01 GMT-07:00" name="configAT" finished-at="2023-09-28T10:22:01 GMT-07:00" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAT -->
+        <test-method is-config="true" signature="configAs()[pri:0, instance:com.hms.testng.TestScripts@279fedbd]" started-at="2023-09-28T10:22:02 GMT-07:00" name="configAs" finished-at="2023-09-28T10:22:02 GMT-07:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAs -->
+      </class> <!-- com.hms.testng.TestScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

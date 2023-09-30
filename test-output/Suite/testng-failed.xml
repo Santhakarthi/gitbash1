@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" parallel="tests" name="Test(failed)">
+    <classes>
+      <class name="com.hms.testng.AddDoctorSpecializationAdminModuleTest">
+        <methods>
+          <include name="configBc"/>
+          <include name="configBS"/>
+          <include name="configAM"/>
+          <include name="configBM"/>
+          <include name="addDoctorSpecialization"/>
+          <include name="configAC"/>
+          <include name="configAS"/>
+        </methods>
+      </class> <!-- com.hms.testng.AddDoctorSpecializationAdminModuleTest -->
+      <class name="com.hms.testng.AddDoctorAdminModuleTest">
+        <methods>
+          <include name="configBc"/>
+          <include name="configBS"/>
+          <include name="configAM"/>
+          <include name="addDoctorPage"/>
+          <include name="configBM"/>
+          <include name="configAC"/>
+          <include name="configAS"/>
+        </methods>
+      </class> <!-- com.hms.testng.AddDoctorAdminModuleTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
